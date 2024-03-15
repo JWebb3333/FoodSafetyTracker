@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@example.com
+      name: Admin User
+      password: $2b$12$SdnZoIkzb5G7SuI5KTRpGeAlTDHO.X0DdJR4QDLPA3l2ZR6j7V7zy # Password: admin123
+    researcher:
+      email: researcher@example.com
+      name: Research User
+      password: $2b$12$oAJcJ5xNmJQ2CpysO7VUZOvFseXHQaOPNrVJNcr.ZkiSKjsQjv2j2 # Password: research123
+cookie:
+  expiry_days: 30
+  key: food_contamination_db_cookie
+  name: food_contamination_auth
